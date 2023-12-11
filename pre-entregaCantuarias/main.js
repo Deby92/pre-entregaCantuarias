@@ -1,5 +1,5 @@
 
-/*
+
 function quimioterapia () {
     let quimioterapia = prompt("Resultado de examenes");
 
@@ -11,7 +11,7 @@ function quimioterapia () {
     }
 }
 quimioterapia();
-*/
+
 
 function ciclosQmt(n) {
     for (let i = 1; i <= n; i++) {
